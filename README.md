@@ -56,7 +56,7 @@ are encoded as `{gender}_{emotion}` and the model is evaluated both globally and
 
 | Dataset | Samples | Gender | Emotions |
 |---|---|---|---|
-| RAVDESS | ~1 440 | M + F | 7 (no disgust) |
+| RAVDESS | ~1 440 | M + F | 7 |
 | CREMA-D | ~7 442 | M + F | 6 (no surprise) |
 | TESS | ~2 800 | F only | 7 |
 | SAVEE | ~480 | M only | 7 |
